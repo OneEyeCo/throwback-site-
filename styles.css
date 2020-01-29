@@ -1,0 +1,8 @@
+/* this is the main style sheet for throwback website*/
+
+.center body {
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;;
+}
